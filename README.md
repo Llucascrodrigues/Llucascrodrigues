@@ -1,7 +1,7 @@
 - <h1 align="center">Olá 👋, Eu sou o Lucas</h1>
 <h3 align="center">Apaixonado por Física e Matemática e me aventurando no mundo da Programação</h3>
 
-- 🌱 Atualmente estou Aprendendo **Data Science, Python, Machine Lerning**
+- 🌱 Atualmente estou Aprendendo **Data Science, Python, SQL**
 
 - 📝 Escrevo Sobre Física em [https://materiaracional934280165.wordpress.com](https://materiaracional934280165.wordpress.com)
 
